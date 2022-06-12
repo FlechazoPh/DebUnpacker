@@ -84,5 +84,5 @@ deb文件解压工具是款相当不错的压缩解压软件；它主要是针�
 
 ## ★ Star 趋势 / Stargazers Over Time
 
-[![Stargazers over time](https://starchart.cc/FlechazoPh/AwesomeScripts.svg)](https://starchart.cc/FlechazoPh/DebUnpacker)
+[![Stargazers over time](https://starchart.cc/FlechazoPh/DebUnpacker.svg)](https://starchart.cc/FlechazoPh/DebUnpacker)
 
