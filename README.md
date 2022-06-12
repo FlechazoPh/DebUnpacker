@@ -44,9 +44,9 @@ deb文件解压工具是款相当不错的压缩解压软件；它主要是针�
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- </table> -->
-|    支付宝赞助码     |  微信赞助码   |    微信交流群(活码)   | Telegram 群组(https://t.me/github_chats) | 加不了群请加微信好友(备注 Github) |
+|    支付宝赞助码     |  微信赞助码   |    微信交流群(活码)   | Telegram 群组(https://t.me/github_chats) |
 | ----------- | ----------- |  ----------- | ----------- | ----------- |
-| ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/4B6DD0C1-8ECE-4C09-A0F7-3B6A36F399E7.jpeg)  | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/cli_wechat.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/tggroup.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/20211127211122.jpg) | 
+| ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/3F596EC7-92D9-49DA-9CA3-78D2DE07838E.jpeg) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/4B6DD0C1-8ECE-4C09-A0F7-3B6A36F399E7.jpeg)  | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/cli_wechat.png) | ![SSH](https://cdn.jsdelivr.net/gh/FlechazoPh/QLDependency@main/assets/tggroup.png) |
 
 <br>
   
