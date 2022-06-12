@@ -64,3 +64,25 @@ deb文件解压工具是款相当不错的压缩解压软件；它主要是针�
 * 更新<br>
 1. 更新 README 文档
 <br>
+  
+  
+  
+## 特别感谢 ：
+
+
+
+## 鸣谢
+
+感谢 [JetBrains](https://www.jetbrains.com/?from=AwesomeScripts) 提供的 free JetBrains Open Source license
+
+[![JetBrains-logo](https://i.loli.net/2020/10/03/E4h5FZmSfnGIgap.png)](https://www.jetbrains.com/?from=AwesomeScripts)
+
+
+
+![FlechazoPh's github stats](https://github-readme-stats.vercel.app/api?username=FlechazoPh&show_icons=true&theme=vue-dark)
+
+
+## ★ Star 趋势 / Stargazers Over Time
+
+[![Stargazers over time](https://starchart.cc/FlechazoPh/AwesomeScripts.svg)](https://starchart.cc/FlechazoPh/DebUnpacker)
+
